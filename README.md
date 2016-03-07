@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hi people,
+
+I'm trying to learn javascript on free code camp.
